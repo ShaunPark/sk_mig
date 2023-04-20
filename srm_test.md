@@ -66,4 +66,9 @@ $ ./kafka-console-producer.sh --bootstrap-server kafka-dc:9092 --topic mirrormak
 ## target topic데이터 확인
 - 700 건 데이터 확인
 
+# 확인 사항
+각 솔루션 별 connect-offsets 토픽내의 키, 밸류 데이터 형식
+각 솔루션 별 black.list추가 방법
+스크립트 작성 가능 여부
+
 
